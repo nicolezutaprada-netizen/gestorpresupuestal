@@ -76,7 +76,7 @@ if (validaresingreso){
 //pinta la lista y el saldo desde el Presupuesto
 
 // Función que pinta/dibuja todo en pantalla (lista de movimientos + saldo)
-function render(){
+function render(){  //render
 
   // presupuesto.movimientos → el array con todos los movimientos guardados
   // .map(liHTML) → recorre cada movimiento y lo transforma en un string de HTML (un <li>)
